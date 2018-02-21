@@ -1,0 +1,26 @@
+First, create the basic game as mentioned in the tutorial , then add 
+
+1.
+overlays to start game < the balls are bouncing in the background, you click on start to remove the dark overlay ,
+and start the game, the evil circle pops in ,
+1.1 Later add a countdown timer 3,2,1 Go!
+
+2.
+a score box
+
+3.
+increasing the size of the ball , and decreasing it over time. Color of ball indicates how much time is remaining. when just 5 seconds are remaining , the seconds appear in big on the game screen.
+5,4,3,2,1. 
+=> Now, important , instead of the YOU LOSE SCREEN!, just make the remaining ball(s) stop
+
+3.1 Later make the balls vibrate as if showing their happiness!!!
+
+and restart the game in a few seconds , say 2 seconds, i.e. the countdown appears again , 3,2,1, and the game starts afresh.
+
+If you win , You win screen appears, and time taken is shown! and a button to "Start a new game" is present.
+
+Later learn how to store this best time, in the web browser!
+
+4.
+
+
